@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "Just a basic set of exercises to practice Jest with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alvison Hunter Arnuero <alvison@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
