@@ -4,10 +4,11 @@
   "description": "Just a basic set of exercises to practice Jest with React",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "Alvison Hunter Arnuero <alvison@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^28.1.3"
   }

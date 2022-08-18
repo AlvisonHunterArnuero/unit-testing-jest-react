@@ -64,6 +64,7 @@ test("Testing applying Async Await", async () => {
   expect(strToBeReversed).toBe("sbaL sretfarCedoC");
 });
 
+// Verify if all tests were ran on this file
 beforeAll(() => {
   console.log("Starting a set of tests....");
 });
