@@ -1,5 +1,5 @@
 const rndLanguage = require("../index");
-describe("Test Rnd Language Functionalities", () => {
+describe("Test Random Language Functionalities & language existence", () => {
   test("should test random language functionality ", () => {
     expect(typeof rndLanguage()).toBe('string');
   });
